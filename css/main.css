@@ -12,6 +12,7 @@ header {
     border-color: #000000;
     height: 20vh;
     align-content: center;
+    padding: 21px;
 }
 
 header nav {
